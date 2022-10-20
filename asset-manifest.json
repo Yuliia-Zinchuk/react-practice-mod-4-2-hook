@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-practice-mod-4-2-hook/static/css/main.7d40bf6a.css",
+    "main.js": "/react-practice-mod-4-2-hook/static/js/main.d3a1baa5.js",
+    "index.html": "/react-practice-mod-4-2-hook/index.html",
+    "main.7d40bf6a.css.map": "/react-practice-mod-4-2-hook/static/css/main.7d40bf6a.css.map",
+    "main.d3a1baa5.js.map": "/react-practice-mod-4-2-hook/static/js/main.d3a1baa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d40bf6a.css",
+    "static/js/main.d3a1baa5.js"
+  ]
+}
